@@ -2,7 +2,7 @@
 
 1.Q:如何访问系统？
 
-A:登录网关后点击“☆服务-&gt;网上报系统”。
+A:登录网关后点击“☆服务-&gt;因公出国（境）任务申办系统”，带有测试字样的为临时测试使用，请勿在测试链接中填写申办数据。
 
 2.Q:登录系统时需要输入用户名密码吗？
 
@@ -14,7 +14,7 @@ A: 因系统的打印只支持IE浏览器，且必须为浏览器安装打印控
 
 1. Q: 打印控件怎么下载安装？
 
-A: 您可以点击\[32位操作系统请点击此处\]\(http://liulongleo.com/file/web\_office.7z\) \[64位操作系统请点击此处\]\(http://liulongleo.com/file/web\_office——64.7z\)下载安装；或者您也可以在外办QQ群共享文件-申报系统中查找weboffice.7z下载安装。
+A: 您可以点击\[32位操作系统请点击此处\]\([http://liulongleo.com/file/web\_office.7z\](http://liulongleo.com/file/web_office.7z\)\) \[64位操作系统请点击此处\]\([http://liulongleo.com/file/web\_office——64.7z\)下载安装；或者您也可以在外办QQ群共享文件-申报系统中查找weboffice.7z下载安装。](http://liulongleo.com/file/web_office——64.7z%29下载安装；或者您也可以在外办QQ群共享文件-申报系统中查找weboffice.7z下载安装。)
 
 1. Q: 我已下载打印控件，该如何安装？
 
